@@ -47,9 +47,8 @@
 Say Hello, I don't bite!
 
 #### 📫 How to reach me
+- LinkedIn: https://linkedin.com/in/daniel-kipkurui-kiptoon-56b8a1177
+- Twitter: https://twitter.com/danchi101
 
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
