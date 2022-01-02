@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (today)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (3 months ago)
 - [doctral/Medium-Cache-System-Design](https://github.com/doctral/Medium-Cache-System-Design) -  (4 months ago)
 - [MartinRixham/Cheesemake](https://github.com/MartinRixham/Cheesemake) - It is not meant to be taken literally, it refers to any manufacturers of dairy products. (7 months ago)
@@ -43,7 +44,6 @@
 - [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) - Code examples and notes for displaying data with C# (2 years ago)
 - [pilotpirxie/coresearch](https://github.com/pilotpirxie/coresearch) - 🔎 .NET Core cross-platform, in-memory, full text search library for building search engines. Made to learn C#. (2 years ago)
 - [praeclarum/sqlite-net](https://github.com/praeclarum/sqlite-net) - Simple, powerful, cross-platform SQLite client and ORM for .NET (2 years ago)
-- [dotnet/efcore](https://github.com/dotnet/efcore) - EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations. (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
