@@ -34,7 +34,7 @@
 
 #### ⭐ Recent Stars
 
-- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (today)
+- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (1 day ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (3 months ago)
 - [doctral/Medium-Cache-System-Design](https://github.com/doctral/Medium-Cache-System-Design) -  (4 months ago)
 - [MartinRixham/Cheesemake](https://github.com/MartinRixham/Cheesemake) - It is not meant to be taken literally, it refers to any manufacturers of dairy products. (7 months ago)
