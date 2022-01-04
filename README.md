@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (today)
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (2 days ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (3 months ago)
 - [doctral/Medium-Cache-System-Design](https://github.com/doctral/Medium-Cache-System-Design) -  (4 months ago)
@@ -43,7 +44,6 @@
 - [LiteeDev/SignalApp-Setup](https://github.com/LiteeDev/SignalApp-Setup) - I was recently working on a deployment guide for SignalApp.org Server, CDS and CDN Deployment. (2 years ago)
 - [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) - Code examples and notes for displaying data with C# (2 years ago)
 - [pilotpirxie/coresearch](https://github.com/pilotpirxie/coresearch) - 🔎 .NET Core cross-platform, in-memory, full text search library for building search engines. Made to learn C#. (2 years ago)
-- [praeclarum/sqlite-net](https://github.com/praeclarum/sqlite-net) - Simple, powerful, cross-platform SQLite client and ORM for .NET (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
