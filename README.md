@@ -34,6 +34,7 @@
 
 #### ⭐ Recent Stars
 
+- [wahinekai/actions-publish-nuget](https://github.com/wahinekai/actions-publish-nuget) - A Github Action to publish a NuGet package to a feed (today)
 - [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (1 day ago)
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (3 days ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (3 months ago)
@@ -43,7 +44,6 @@
 - [paulonteri/remote-code-execution-environment](https://github.com/paulonteri/remote-code-execution-environment) - Have you ever wondered how code execution on competitive programming websites like leetcode works? Code that runs code. Tried implementing that. (1 year ago)
 - [LiteeDev/SignalApp-Setup](https://github.com/LiteeDev/SignalApp-Setup) - I was recently working on a deployment guide for SignalApp.org Server, CDS and CDN Deployment. (2 years ago)
 - [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) - Code examples and notes for displaying data with C# (2 years ago)
-- [pilotpirxie/coresearch](https://github.com/pilotpirxie/coresearch) - 🔎 .NET Core cross-platform, in-memory, full text search library for building search engines. Made to learn C#. (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
