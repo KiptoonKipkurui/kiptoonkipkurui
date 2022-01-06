@@ -34,9 +34,9 @@
 
 #### ⭐ Recent Stars
 
-- [wahinekai/actions-publish-nuget](https://github.com/wahinekai/actions-publish-nuget) - A Github Action to publish a NuGet package to a feed (today)
-- [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (1 day ago)
-- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (3 days ago)
+- [wahinekai/actions-publish-nuget](https://github.com/wahinekai/actions-publish-nuget) - A Github Action to publish a NuGet package to a feed (1 day ago)
+- [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (2 days ago)
+- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (4 days ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (3 months ago)
 - [doctral/Medium-Cache-System-Design](https://github.com/doctral/Medium-Cache-System-Design) -  (4 months ago)
 - [MartinRixham/Cheesemake](https://github.com/MartinRixham/Cheesemake) - It is not meant to be taken literally, it refers to any manufacturers of dairy products. (7 months ago)
