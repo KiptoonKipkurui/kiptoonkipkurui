@@ -36,6 +36,7 @@
 
 #### ⭐ Recent Stars
 
+- [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 (today)
 - [wahinekai/actions-publish-nuget](https://github.com/wahinekai/actions-publish-nuget) - A Github Action to publish a NuGet package to a feed (1 month ago)
 - [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (1 month ago)
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (1 month ago)
@@ -45,7 +46,6 @@
 - [atsvetkov/database-migrations-dotnet](https://github.com/atsvetkov/database-migrations-dotnet) - A code example showing 5 ways to manage database schema in .NET (2 years ago)
 - [paulonteri/remote-code-execution-environment](https://github.com/paulonteri/remote-code-execution-environment) - Have you ever wondered how code execution on competitive programming websites like leetcode works? Code that runs code. Tried implementing that. (2 years ago)
 - [LiteeDev/SignalApp-Setup](https://github.com/LiteeDev/SignalApp-Setup) - I was recently working on a deployment guide for SignalApp.org Server, CDS and CDN Deployment. (2 years ago)
-- [swharden/Csharp-Data-Visualization](https://github.com/swharden/Csharp-Data-Visualization) - Code examples and notes for displaying data with C# (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
