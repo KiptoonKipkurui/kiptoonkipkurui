@@ -35,10 +35,10 @@
 
 #### ⭐ Recent Stars
 
-- [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 (5 days ago)
+- [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 (6 days ago)
 - [wahinekai/actions-publish-nuget](https://github.com/wahinekai/actions-publish-nuget) - A Github Action to publish a NuGet package to a feed (1 month ago)
 - [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (1 month ago)
-- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (1 month ago)
+- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (2 months ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (5 months ago)
 - [doctral/Medium-Cache-System-Design](https://github.com/doctral/Medium-Cache-System-Design) -  (6 months ago)
 - [MartinRixham/Cheesemake](https://github.com/MartinRixham/Cheesemake) - It is not meant to be taken literally, it refers to any manufacturers of dairy products. (9 months ago)
