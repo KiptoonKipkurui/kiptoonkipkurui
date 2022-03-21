@@ -35,6 +35,7 @@
 
 #### ⭐ Recent Stars
 
+- [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - cdev python sdk (today)
 - [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go (2 weeks ago)
 - [MauriceGit/skiplist](https://github.com/MauriceGit/skiplist) - A Go library for an efficient implementation of a skip list: https://godoc.org/github.com/MauriceGit/skiplist (2 weeks ago)
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 (3 weeks ago)
@@ -44,7 +45,6 @@
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (6 months ago)
 - [doctral/Medium-Cache-System-Design](https://github.com/doctral/Medium-Cache-System-Design) -  (6 months ago)
 - [MartinRixham/Cheesemake](https://github.com/MartinRixham/Cheesemake) - It is not meant to be taken literally, it refers to any manufacturers of dairy products. (10 months ago)
-- [atsvetkov/database-migrations-dotnet](https://github.com/atsvetkov/database-migrations-dotnet) - A code example showing 5 ways to manage database schema in .NET (2 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
