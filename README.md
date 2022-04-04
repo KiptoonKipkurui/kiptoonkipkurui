@@ -35,12 +35,12 @@
 
 #### ⭐ Recent Stars
 
-- [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - cdev python sdk (1 week ago)
+- [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - cdev python sdk (2 weeks ago)
 - [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go (1 month ago)
 - [MauriceGit/skiplist](https://github.com/MauriceGit/skiplist) - A Go library for an efficient implementation of a skip list: https://godoc.org/github.com/MauriceGit/skiplist (1 month ago)
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 (1 month ago)
 - [wahinekai/actions-publish-nuget](https://github.com/wahinekai/actions-publish-nuget) - A Github Action to publish a NuGet package to a feed (2 months ago)
-- [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (2 months ago)
+- [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (3 months ago)
 - [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (3 months ago)
 - [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (6 months ago)
 - [doctral/Medium-Cache-System-Design](https://github.com/doctral/Medium-Cache-System-Design) -  (7 months ago)
