@@ -8,6 +8,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - 
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) - 
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile
 - [KiptoonKipkurui/tickets-backend](https://github.com/KiptoonKipkurui/tickets-backend) - 
