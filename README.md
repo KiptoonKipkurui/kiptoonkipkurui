@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - cdev python sdk (1 month ago)
+- [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - cdev python sdk (2 months ago)
 - [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go (2 months ago)
 - [MauriceGit/skiplist](https://github.com/MauriceGit/skiplist) - A Go library for an efficient implementation of a skip list: https://godoc.org/github.com/MauriceGit/skiplist (2 months ago)
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 (2 months ago)
