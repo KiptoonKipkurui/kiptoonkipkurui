@@ -36,16 +36,16 @@
 
 #### ⭐ Recent Stars
 
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (today)
+- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (today)
+- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes. (today)
+- [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software (today)
+- [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers) (today)
 - [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - cdev python sdk (2 months ago)
 - [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go (2 months ago)
 - [MauriceGit/skiplist](https://github.com/MauriceGit/skiplist) - A Go library for an efficient implementation of a skip list: https://godoc.org/github.com/MauriceGit/skiplist (2 months ago)
 - [datastacktv/data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 (2 months ago)
 - [wahinekai/actions-publish-nuget](https://github.com/wahinekai/actions-publish-nuget) - A Github Action to publish a NuGet package to a feed (4 months ago)
-- [WayneD/rsync](https://github.com/WayneD/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases. (4 months ago)
-- [enocom/gopher-reading-list](https://github.com/enocom/gopher-reading-list) - A curated selection of blog posts on Go (4 months ago)
-- [segmentio/asm](https://github.com/segmentio/asm) - Go library providing algorithms optimized to leverage the characteristics of modern CPUs (8 months ago)
-- [doctral/Medium-Cache-System-Design](https://github.com/doctral/Medium-Cache-System-Design) -  (8 months ago)
-- [MartinRixham/Cheesemake](https://github.com/MartinRixham/Cheesemake) - It is not meant to be taken literally, it refers to any manufacturers of dairy products. (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
