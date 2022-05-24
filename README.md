@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) -  (4 months ago)
-- [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (4 months ago)
+- [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (5 months ago)
 
 #### 🌱 My latest projects
 
