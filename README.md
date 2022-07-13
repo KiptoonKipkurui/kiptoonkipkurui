@@ -24,7 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 week ago)
+- [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 weeks ago)
 
 
 #### 📓 Gists I wrote
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent Stars
 
-- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (1 week ago)
+- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (2 weeks ago)
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (1 month ago)
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (1 month ago)
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes. (1 month ago)
