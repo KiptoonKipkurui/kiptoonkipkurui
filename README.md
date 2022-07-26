@@ -53,6 +53,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [RWambui](https://github.com/RWambui)
 - [Mercy-Jepchirchir](https://github.com/Mercy-Jepchirchir)
 - [richyosano](https://github.com/richyosano)
 - [Omulosi](https://github.com/Omulosi)
