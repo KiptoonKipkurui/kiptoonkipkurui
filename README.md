@@ -24,6 +24,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (today)
 - [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
 
 
