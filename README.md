@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (today)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (4 days ago)
 - [julierealmids/PYTHONDATABASE](https://github.com/julierealmids/PYTHONDATABASE) -  (6 days ago)
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) -  (7 months ago)
@@ -10,6 +11,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) - 
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - 
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) - 
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile
@@ -19,7 +21,6 @@
 - [KiptoonKipkurui/RateLimiting](https://github.com/KiptoonKipkurui/RateLimiting) - Helper library for rate limitng 
 - [KiptoonKipkurui/flask-rest](https://github.com/KiptoonKipkurui/flask-rest) - 
 - [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) - 
-- [KiptoonKipkurui/StripeExtensions](https://github.com/KiptoonKipkurui/StripeExtensions) - Collection of methods to help in interracting with stripe api via c#
 
 #### 🔭 Latest releases I've contributed to
 
