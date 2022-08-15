@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (3 days ago)
-- [julierealmids/PYTHONDATABASE](https://github.com/julierealmids/PYTHONDATABASE) -  (5 days ago)
+- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (4 days ago)
+- [julierealmids/PYTHONDATABASE](https://github.com/julierealmids/PYTHONDATABASE) -  (6 days ago)
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) -  (7 months ago)
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (7 months ago)
 
