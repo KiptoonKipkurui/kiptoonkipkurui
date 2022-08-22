@@ -58,11 +58,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Kisuvilu](https://github.com/Kisuvilu)
 - [frankiemutiso](https://github.com/frankiemutiso)
 - [paulmunyao](https://github.com/paulmunyao)
 - [RWambui](https://github.com/RWambui)
 - [Mercy-Jepchirchir](https://github.com/Mercy-Jepchirchir)
-- [richyosano](https://github.com/richyosano)
 
 #### 💬 Feedback
 
