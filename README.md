@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - High performance Go Merkle Tree (supports parallel run). (today)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (today)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (2 months ago)
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (3 months ago)
@@ -51,7 +52,6 @@
 - [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers) (3 months ago)
 - [cdev-framework/cdev-sdk](https://github.com/cdev-framework/cdev-sdk) - Cdev Python SDK (5 months ago)
 - [puzpuzpuz/xsync](https://github.com/puzpuzpuz/xsync) - Concurrent data structures for Go (6 months ago)
-- [MauriceGit/skiplist](https://github.com/MauriceGit/skiplist) - A Go library for an efficient implementation of a skip list: https://godoc.org/github.com/MauriceGit/skiplist (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
