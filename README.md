@@ -42,8 +42,8 @@
 
 #### ⭐ Recent Stars
 
-- [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - High performance Go Merkle Tree (supports parallel run). (today)
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (today)
+- [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - High performance Go Merkle Tree (supports parallel run). (1 day ago)
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (1 day ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (2 months ago)
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (3 months ago)
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (3 months ago)
