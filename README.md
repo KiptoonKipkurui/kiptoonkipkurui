@@ -59,11 +59,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jimmy-kyalo](https://github.com/jimmy-kyalo)
 - [Kisuvilu](https://github.com/Kisuvilu)
 - [frankiemutiso](https://github.com/frankiemutiso)
 - [paulmunyao](https://github.com/paulmunyao)
 - [RWambui](https://github.com/RWambui)
-- [Mercy-Jepchirchir](https://github.com/Mercy-Jepchirchir)
 
 #### 💬 Feedback
 
