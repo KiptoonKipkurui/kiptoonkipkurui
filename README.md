@@ -27,7 +27,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 days ago)
+- [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (3 days ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
 - [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (1 month ago)
 - [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 months ago)
@@ -43,8 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - High performance Go Merkle Tree (supports parallel run). (4 days ago)
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (4 days ago)
+- [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - High performance Go Merkle Tree (supports parallel run). (5 days ago)
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (5 days ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (2 months ago)
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (3 months ago)
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (3 months ago)
