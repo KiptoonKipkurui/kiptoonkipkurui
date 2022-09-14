@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with Rose Wamboi (https://github.com/RWamboi) to learn system design (today)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (4 weeks ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (1 month ago)
 - [julierealmids/PYTHONDATABASE](https://github.com/julierealmids/PYTHONDATABASE) -  (1 month ago)
@@ -11,6 +12,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with Rose Wamboi (https://github.com/RWamboi) to learn system design
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) - 
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - 
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) - 
@@ -20,7 +22,6 @@
 - [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often
 - [KiptoonKipkurui/RateLimiting](https://github.com/KiptoonKipkurui/RateLimiting) - Helper library for rate limitng 
 - [KiptoonKipkurui/flask-rest](https://github.com/KiptoonKipkurui/flask-rest) - 
-- [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) - 
 
 #### 🔭 Latest releases I've contributed to
 
