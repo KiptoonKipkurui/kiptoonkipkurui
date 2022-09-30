@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [RWambui/Data-structure-Interview-prep-JS](https://github.com/RWambui/Data-structure-Interview-prep-JS) - This repo helps you to prepare for interviews using optimally solved questions. The solutions are written in JavaScript and Python the list is curatively selected . Coding exercise questions are coming soon!! (today)
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (1 week ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (2 weeks ago)
 - [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - High performance Go Merkle Tree (supports parallel run). (3 weeks ago)
@@ -53,7 +54,6 @@
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (4 months ago)
 - [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes. (4 months ago)
 - [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software (4 months ago)
-- [jpetazzo/pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking tools for LXC (LinuX Containers) (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
