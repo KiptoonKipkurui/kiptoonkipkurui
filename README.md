@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (today)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (today)
 - [RWambui/Data-structure-Interview-prep-JS](https://github.com/RWambui/Data-structure-Interview-prep-JS) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (2 days ago)
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (1 week ago)
@@ -53,7 +54,6 @@
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (3 months ago)
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (4 months ago)
 - [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (4 months ago)
-- [jpetazzo/container.training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes. (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
