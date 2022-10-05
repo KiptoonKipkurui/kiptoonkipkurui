@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [initial python push](https://github.com/RWambui/Data-structure-Interview-prep-JS/pull/25) on [RWambui/Data-structure-Interview-prep-JS](https://github.com/RWambui/Data-structure-Interview-prep-JS) (today)
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (3 weeks ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 months ago)
 - [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (2 months ago)
