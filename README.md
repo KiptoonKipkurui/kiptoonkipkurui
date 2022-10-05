@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (today)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (3 days ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (3 days ago)
 - [RWambui/Data-structure-Interview-prep-JS](https://github.com/RWambui/Data-structure-Interview-prep-JS) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (5 days ago)
@@ -55,7 +56,6 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (3 weeks ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (3 months ago)
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&amp;Container technologies, with real DevOps practice! (4 months ago)
-- [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) - A toolkit for building secure, portable and lean operating systems for containers (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
