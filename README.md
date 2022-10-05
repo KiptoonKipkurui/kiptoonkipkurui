@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [RWambui/Data-structure-Interview-prep-JS](https://github.com/RWambui/Data-structure-Interview-prep-JS) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (today)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (6 days ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (3 weeks ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 month ago)
