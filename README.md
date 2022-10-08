@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (today)
 - [initial python push](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep/pull/25) on [RWambui/Data-structures-and-Algorithms-Interview-prep](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep) (3 days ago)
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (4 weeks ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 months ago)
