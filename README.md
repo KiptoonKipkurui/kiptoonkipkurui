@@ -29,6 +29,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [mmctl: Review unarchiveChannelsCmdF function to return an error in case of a failure #21212](https://github.com/mattermost/mmctl/pull/572) on [mattermost/mmctl](https://github.com/mattermost/mmctl) (today)
 - [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 days ago)
 - [initial python push](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep/pull/25) on [RWambui/Data-structures-and-Algorithms-Interview-prep](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep) (5 days ago)
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
