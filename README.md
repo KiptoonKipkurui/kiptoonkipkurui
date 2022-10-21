@@ -65,11 +65,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [NewtonOmbese](https://github.com/NewtonOmbese)
 - [festusmaithya](https://github.com/festusmaithya)
 - [jimmy-kyalo](https://github.com/jimmy-kyalo)
 - [Kisuvilu](https://github.com/Kisuvilu)
 - [frankiemutiso](https://github.com/frankiemutiso)
-- [paulmunyao](https://github.com/paulmunyao)
 
 #### 💬 Feedback
 
