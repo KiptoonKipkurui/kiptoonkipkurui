@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [RWambui/Data-structures-and-Algorithms-Interview-prep](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (6 days ago)
+- [RWambui/Data-structures-and-Algorithms-Interview-prep](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 week ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 week ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (3 weeks ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (1 month ago)
@@ -29,9 +29,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [leetcode solutions](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep/pull/26) on [RWambui/Data-structures-and-Algorithms-Interview-prep](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep) (6 days ago)
+- [leetcode solutions](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep/pull/26) on [RWambui/Data-structures-and-Algorithms-Interview-prep](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep) (1 week ago)
 - [mmctl: Review unarchiveChannelsCmdF function to return an error in case of a failure #21212](https://github.com/mattermost/mmctl/pull/572) on [mattermost/mmctl](https://github.com/mattermost/mmctl) (1 week ago)
-- [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 week ago)
+- [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 weeks ago)
 - [initial python push](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep/pull/25) on [RWambui/Data-structures-and-Algorithms-Interview-prep](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep) (2 weeks ago)
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 months ago)
