@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (today)
 - [RWambui/Data-structures-and-Algorithms-Interview-prep](https://github.com/RWambui/Data-structures-and-Algorithms-Interview-prep) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 week ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 week ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (3 weeks ago)
@@ -13,6 +14,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) - 
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) - 
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - 
@@ -22,7 +24,6 @@
 - [KiptoonKipkurui/TwitterClient](https://github.com/KiptoonKipkurui/TwitterClient) - Simple twitter api client
 - [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often
 - [KiptoonKipkurui/RateLimiting](https://github.com/KiptoonKipkurui/RateLimiting) - Helper library for rate limitng 
-- [KiptoonKipkurui/flask-rest](https://github.com/KiptoonKipkurui/flask-rest) - 
 
 #### 🔭 Latest releases I've contributed to
 
