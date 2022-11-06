@@ -5,7 +5,7 @@
 
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (2 weeks ago)
 - [RWambui/ace-technical-interview-js-py](https://github.com/RWambui/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (3 weeks ago)
-- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (3 weeks ago)
+- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (4 weeks ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (4 weeks ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (1 month ago)
 - [julietnakayiza/PYTHONDATABASE](https://github.com/julietnakayiza/PYTHONDATABASE) -  (2 months ago)
