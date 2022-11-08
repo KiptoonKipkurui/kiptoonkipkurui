@@ -67,7 +67,7 @@
 #### 👯 Check out some of my recent followers
 
 - [NewtonOmbese](https://github.com/NewtonOmbese)
-- [festusmaithya](https://github.com/festusmaithya)
+- [festusmaithyakcau](https://github.com/festusmaithyakcau)
 - [jimmy-kyalo](https://github.com/jimmy-kyalo)
 - [Kisuvilu](https://github.com/Kisuvilu)
 - [frankiemutiso](https://github.com/frankiemutiso)
