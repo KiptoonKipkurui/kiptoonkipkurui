@@ -31,10 +31,10 @@
 #### 🔨 My recent Pull Requests
 
 - [leetcode solutions](https://github.com/RWambui/ace-technical-interview-js-py/pull/26) on [RWambui/ace-technical-interview-js-py](https://github.com/RWambui/ace-technical-interview-js-py) (3 weeks ago)
-- [mmctl: Review unarchiveChannelsCmdF function to return an error in case of a failure #21212](https://github.com/mattermost/mmctl/pull/572) on [mattermost/mmctl](https://github.com/mattermost/mmctl) (4 weeks ago)
+- [mmctl: Review unarchiveChannelsCmdF function to return an error in case of a failure #21212](https://github.com/mattermost/mmctl/pull/572) on [mattermost/mmctl](https://github.com/mattermost/mmctl) (1 month ago)
 - [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
 - [initial python push](https://github.com/RWambui/ace-technical-interview-js-py/pull/25) on [RWambui/ace-technical-interview-js-py](https://github.com/RWambui/ace-technical-interview-js-py) (1 month ago)
-- [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
+- [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 months ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (3 months ago)
 - [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (3 months ago)
 - [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (4 months ago)
