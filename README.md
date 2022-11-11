@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (2 weeks ago)
-- [RWambui/ace-technical-interview-js-py](https://github.com/RWambui/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (3 weeks ago)
+- [c0de-muse/ace-technical-interview-js-py](https://github.com/c0de-muse/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (3 weeks ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 month ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (1 month ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (1 month ago)
@@ -30,10 +30,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [leetcode solutions](https://github.com/RWambui/ace-technical-interview-js-py/pull/26) on [RWambui/ace-technical-interview-js-py](https://github.com/RWambui/ace-technical-interview-js-py) (3 weeks ago)
+- [leetcode solutions](https://github.com/c0de-muse/ace-technical-interview-js-py/pull/26) on [c0de-muse/ace-technical-interview-js-py](https://github.com/c0de-muse/ace-technical-interview-js-py) (3 weeks ago)
 - [mmctl: Review unarchiveChannelsCmdF function to return an error in case of a failure #21212](https://github.com/mattermost/mmctl/pull/572) on [mattermost/mmctl](https://github.com/mattermost/mmctl) (1 month ago)
 - [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
-- [initial python push](https://github.com/RWambui/ace-technical-interview-js-py/pull/25) on [RWambui/ace-technical-interview-js-py](https://github.com/RWambui/ace-technical-interview-js-py) (1 month ago)
+- [initial python push](https://github.com/c0de-muse/ace-technical-interview-js-py/pull/25) on [c0de-muse/ace-technical-interview-js-py](https://github.com/c0de-muse/ace-technical-interview-js-py) (1 month ago)
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 months ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (3 months ago)
 - [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (3 months ago)
@@ -54,7 +54,7 @@
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (1 month ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (1 month ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (1 month ago)
-- [RWambui/ace-technical-interview-js-py](https://github.com/RWambui/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 month ago)
+- [c0de-muse/ace-technical-interview-js-py](https://github.com/c0de-muse/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 month ago)
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (1 month ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (1 month ago)
 - [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - High performance Go Merkle Tree (supports parallel run). (2 months ago)
