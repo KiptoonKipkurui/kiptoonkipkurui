@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Support for TikTok](https://github.com/KanaryStack/aliascheck/pull/59) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (today)
+- [Support for TikTok](https://github.com/KanaryStack/aliascheck/pull/59) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 day ago)
 - [leetcode solutions](https://github.com/codemuse-io/ace-technical-interview-js-py/pull/26) on [codemuse-io/ace-technical-interview-js-py](https://github.com/codemuse-io/ace-technical-interview-js-py) (4 weeks ago)
 - [mmctl: Review unarchiveChannelsCmdF function to return an error in case of a failure #21212](https://github.com/mattermost/mmctl/pull/572) on [mattermost/mmctl](https://github.com/mattermost/mmctl) (1 month ago)
 - [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
@@ -51,7 +51,7 @@
 
 #### ⭐ Recent Stars
 
-- [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (4 weeks ago)
+- [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (1 month ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (1 month ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (1 month ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (1 month ago)
