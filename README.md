@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (1 day ago)
+- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (2 days ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (1 month ago)
 - [codemuse-io/ace-technical-interview-js-py](https://github.com/codemuse-io/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 month ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 month ago)
