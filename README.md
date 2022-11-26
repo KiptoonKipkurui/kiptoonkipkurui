@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (3 days ago)
+- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (4 days ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (1 month ago)
 - [codemuse-io/ace-technical-interview-js-py](https://github.com/codemuse-io/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 month ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 month ago)
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Support for TikTok](https://github.com/KanaryStack/aliascheck/pull/59) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 week ago)
+- [Support for TikTok](https://github.com/KanaryStack/aliascheck/pull/59) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 weeks ago)
 - [leetcode solutions](https://github.com/codemuse-io/ace-technical-interview-js-py/pull/26) on [codemuse-io/ace-technical-interview-js-py](https://github.com/codemuse-io/ace-technical-interview-js-py) (1 month ago)
 - [mmctl: Review unarchiveChannelsCmdF function to return an error in case of a failure #21212](https://github.com/mattermost/mmctl/pull/572) on [mattermost/mmctl](https://github.com/mattermost/mmctl) (1 month ago)
 - [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
@@ -38,7 +38,7 @@
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (2 months ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (3 months ago)
 - [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (3 months ago)
-- [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (4 months ago)
+- [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (5 months ago)
 
 
 #### 📓 Gists I wrote
@@ -60,7 +60,7 @@
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (2 months ago)
 - [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - High performance Go Merkle Tree (supports parallel run). (2 months ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (2 months ago)
-- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (4 months ago)
+- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
