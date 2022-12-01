@@ -53,8 +53,8 @@
 
 - [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (1 month ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (1 month ago)
-- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (1 month ago)
-- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (1 month ago)
+- [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (2 months ago)
+- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (2 months ago)
 - [codemuse-io/ace-technical-interview-js-py](https://github.com/codemuse-io/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (2 months ago)
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (2 months ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (2 months ago)
