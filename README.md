@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [v1.29 deprecated apis validation](https://github.com/kyverno/policies/pull/489) on [kyverno/policies](https://github.com/kyverno/policies) (today)
 - [Support for TikTok](https://github.com/KanaryStack/aliascheck/pull/59) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 month ago)
 - [leetcode solutions](https://github.com/codemuse-ke/ace-technical-interview-js-py/pull/26) on [codemuse-ke/ace-technical-interview-js-py](https://github.com/codemuse-ke/ace-technical-interview-js-py) (2 months ago)
 - [mmctl: Review unarchiveChannelsCmdF function to return an error in case of a failure #21212](https://github.com/mattermost/mmctl/pull/572) on [mattermost/mmctl](https://github.com/mattermost/mmctl) (3 months ago)
