@@ -72,9 +72,9 @@
 
 - [ballountopp1](https://github.com/ballountopp1)
 - [GraceMunyiri](https://github.com/GraceMunyiri)
-- [NewtonOmbese](https://github.com/NewtonOmbese)
 - [festusmaithyakcau](https://github.com/festusmaithyakcau)
 - [jimmy-kyalo](https://github.com/jimmy-kyalo)
+- [Kisuvilu](https://github.com/Kisuvilu)
 
 #### 💬 Feedback
 
