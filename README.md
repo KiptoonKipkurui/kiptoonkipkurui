@@ -5,9 +5,9 @@
 
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (1 month ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (1 month ago)
-- [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (2 months ago)
 - [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (2 months ago)
-- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (2 months ago)
+- [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (2 months ago)
+- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (3 months ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (4 months ago)
 - [codemuse-ke/ace-technical-interview-js-py](https://github.com/codemuse-ke/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (4 months ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (4 months ago)
