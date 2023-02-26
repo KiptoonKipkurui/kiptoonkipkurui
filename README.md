@@ -5,8 +5,8 @@
 
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (1 month ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (2 months ago)
-- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (2 months ago)
 - [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (2 months ago)
+- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (2 months ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (3 months ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (4 months ago)
 - [codemuse-ke/ace-technical-interview-js-py](https://github.com/codemuse-ke/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (4 months ago)
@@ -40,7 +40,7 @@
 - [initial python push](https://github.com/codemuse-ke/ace-technical-interview-js-py/pull/25) on [codemuse-ke/ace-technical-interview-js-py](https://github.com/codemuse-ke/ace-technical-interview-js-py) (4 months ago)
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (5 months ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (6 months ago)
-- [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (6 months ago)
+- [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (7 months ago)
 - [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (8 months ago)
 
 
