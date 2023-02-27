@@ -5,8 +5,8 @@
 
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (1 month ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (2 months ago)
-- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (2 months ago)
 - [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (2 months ago)
+- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (2 months ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (3 months ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (4 months ago)
 - [codemuse-ke/ace-technical-interview-js-py](https://github.com/codemuse-ke/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (4 months ago)
@@ -58,7 +58,7 @@
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (4 months ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (4 months ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (4 months ago)
-- [codemuse-ke/ace-technical-interview-js-py](https://github.com/codemuse-ke/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (4 months ago)
+- [codemuse-ke/ace-technical-interview-js-py](https://github.com/codemuse-ke/ace-technical-interview-js-py) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (5 months ago)
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (5 months ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (5 months ago)
 - [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - Go Merkle Tree. High performance, Supporting parallel run, OpenZeppelin sorting pairs. (5 months ago)
