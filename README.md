@@ -16,6 +16,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/Paper-Reviews](https://github.com/KiptoonKipkurui/Paper-Reviews) - A collection of reviews for scientific papers
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) - 
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) - 
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design
@@ -25,7 +26,6 @@
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile
 - [KiptoonKipkurui/tickets-backend](https://github.com/KiptoonKipkurui/tickets-backend) - 
 - [KiptoonKipkurui/TwitterClient](https://github.com/KiptoonKipkurui/TwitterClient) - Simple twitter api client
-- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often
 
 #### 🔭 Latest releases I've contributed to
 
