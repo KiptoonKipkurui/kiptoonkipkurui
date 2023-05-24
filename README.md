@@ -70,11 +70,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Shawnbett3r](https://github.com/Shawnbett3r)
 - [wilsonanyonga](https://github.com/wilsonanyonga)
 - [Willarry](https://github.com/Willarry)
 - [ballountopp1](https://github.com/ballountopp1)
 - [GraceMunyiri](https://github.com/GraceMunyiri)
-- [festusmaithyakcau](https://github.com/festusmaithyakcau)
 
 #### 💬 Feedback
 
