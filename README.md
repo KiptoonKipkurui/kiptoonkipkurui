@@ -41,7 +41,7 @@
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (8 months ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (9 months ago)
 - [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (9 months ago)
-- [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (10 months ago)
+- [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (11 months ago)
 
 
 #### 📓 Gists I wrote
@@ -63,7 +63,7 @@
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (8 months ago)
 - [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - Go Merkle Tree. High performance, Supporting parallel run, OpenZeppelin sorting pairs. (8 months ago)
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (8 months ago)
-- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (10 months ago)
+- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (11 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
