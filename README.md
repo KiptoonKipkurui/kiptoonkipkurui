@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (today)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (4 months ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (5 months ago)
 - [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (5 months ago)
@@ -12,7 +13,6 @@
 - [codemuseKE/ace-technical-interview](https://github.com/codemuseKE/ace-technical-interview) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (7 months ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (7 months ago)
 - [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (7 months ago)
-- [julietnakayiza/PYTHONDATABASE](https://github.com/julietnakayiza/PYTHONDATABASE) -  (9 months ago)
 
 #### 🌱 My latest projects
 
@@ -21,7 +21,7 @@
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) - 
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) - 
-- [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - 
+- [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) - 
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile
 - [KiptoonKipkurui/tickets-backend](https://github.com/KiptoonKipkurui/tickets-backend) - 
