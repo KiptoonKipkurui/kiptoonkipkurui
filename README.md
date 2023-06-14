@@ -32,6 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Flux](https://github.com/KiptoonKipkurui/content-gitops/pull/1) on [KiptoonKipkurui/content-gitops](https://github.com/KiptoonKipkurui/content-gitops) (today)
+- [Flux](https://github.com/ACloudGuru-Resources/content-gitops/pull/32) on [ACloudGuru-Resources/content-gitops](https://github.com/ACloudGuru-Resources/content-gitops) (today)
 - [v1.29 deprecated apis validation](https://github.com/kyverno/policies/pull/489) on [kyverno/policies](https://github.com/kyverno/policies) (5 months ago)
 - [Support for TikTok](https://github.com/KanaryStack/aliascheck/pull/59) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (7 months ago)
 - [leetcode solutions](https://github.com/codemuseKE/ace-technical-interview/pull/26) on [codemuseKE/ace-technical-interview](https://github.com/codemuseKE/ace-technical-interview) (8 months ago)
@@ -40,8 +42,6 @@
 - [initial python push](https://github.com/codemuseKE/ace-technical-interview/pull/25) on [codemuseKE/ace-technical-interview](https://github.com/codemuseKE/ace-technical-interview) (8 months ago)
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (9 months ago)
 - [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (10 months ago)
-- [register wallets model to admin.py](https://github.com/Lauraalinda/pythonDatabasemodels/pull/1) on [Lauraalinda/pythonDatabasemodels](https://github.com/Lauraalinda/pythonDatabasemodels) (10 months ago)
-- [Initial backend setup](https://github.com/KanaryStack/aliascheck/pull/7) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (11 months ago)
 
 
 #### 📓 Gists I wrote
