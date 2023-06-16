@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Flux](https://github.com/KiptoonKipkurui/content-gitops/pull/1) on [KiptoonKipkurui/content-gitops](https://github.com/KiptoonKipkurui/content-gitops) (1 day ago)
-- [Flux](https://github.com/ACloudGuru-Resources/content-gitops/pull/32) on [ACloudGuru-Resources/content-gitops](https://github.com/ACloudGuru-Resources/content-gitops) (1 day ago)
+- [Flux](https://github.com/KiptoonKipkurui/content-gitops/pull/1) on [KiptoonKipkurui/content-gitops](https://github.com/KiptoonKipkurui/content-gitops) (2 days ago)
+- [Flux](https://github.com/ACloudGuru-Resources/content-gitops/pull/32) on [ACloudGuru-Resources/content-gitops](https://github.com/ACloudGuru-Resources/content-gitops) (2 days ago)
 - [v1.29 deprecated apis validation](https://github.com/kyverno/policies/pull/489) on [kyverno/policies](https://github.com/kyverno/policies) (5 months ago)
 - [Support for TikTok](https://github.com/KanaryStack/aliascheck/pull/59) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (7 months ago)
 - [leetcode solutions](https://github.com/codemuseKE/ace-technical-interview/pull/26) on [codemuseKE/ace-technical-interview](https://github.com/codemuseKE/ace-technical-interview) (8 months ago)
