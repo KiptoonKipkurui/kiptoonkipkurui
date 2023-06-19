@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (today)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (2 weeks ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (5 months ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (5 months ago)
@@ -12,10 +13,10 @@
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (8 months ago)
 - [codemuseKE/ace-technical-interview](https://github.com/codemuseKE/ace-technical-interview) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (8 months ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (8 months ago)
-- [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) - Alias Check (8 months ago)
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) - 
 - [KiptoonKipkurui/Paper-Reviews](https://github.com/KiptoonKipkurui/Paper-Reviews) - A collection of reviews for scientific papers
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) - 
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) - 
@@ -25,7 +26,6 @@
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) - 
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile
 - [KiptoonKipkurui/tickets-backend](https://github.com/KiptoonKipkurui/tickets-backend) - 
-- [KiptoonKipkurui/TwitterClient](https://github.com/KiptoonKipkurui/TwitterClient) - Simple twitter api client
 
 #### 🔭 Latest releases I've contributed to
 
