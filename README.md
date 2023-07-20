@@ -9,7 +9,7 @@
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (6 months ago)
 - [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (7 months ago)
 - [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (7 months ago)
-- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (7 months ago)
+- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (8 months ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (9 months ago)
 - [R0SE-MWANGI/ace-technical-interview](https://github.com/R0SE-MWANGI/ace-technical-interview) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (9 months ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (9 months ago)
