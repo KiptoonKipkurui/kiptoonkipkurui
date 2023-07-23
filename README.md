@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 day ago)
+- [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (2 days ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (1 month ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (6 months ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (6 months ago)
