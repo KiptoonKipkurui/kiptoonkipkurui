@@ -41,7 +41,7 @@
 - [Parallel username check](https://github.com/KanaryStack/aliascheck/pull/53) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (9 months ago)
 - [initial python push](https://github.com/R0SE-MWANGI/ace-technical-interview/pull/25) on [R0SE-MWANGI/ace-technical-interview](https://github.com/R0SE-MWANGI/ace-technical-interview) (9 months ago)
 - [Twitter client implementation](https://github.com/KanaryStack/aliascheck/pull/40) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (10 months ago)
-- [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (11 months ago)
+- [twitter-api](https://github.com/KanaryStack/aliascheck/pull/17) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (1 year ago)
 
 
 #### 📓 Gists I wrote
