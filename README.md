@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[Docs] Readme: Contributor Instructions and Make Target](https://github.com/meshery/meshsync/pull/240) on [meshery/meshsync](https://github.com/meshery/meshsync) (today)
+- [[Docs] Readme: Contributor Instructions and Make Target](https://github.com/meshery/meshsync/pull/240) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 day ago)
 - [Flux](https://github.com/KiptoonKipkurui/content-gitops/pull/1) on [KiptoonKipkurui/content-gitops](https://github.com/KiptoonKipkurui/content-gitops) (2 months ago)
 - [Flux](https://github.com/ACloudGuru-Resources/content-gitops/pull/32) on [ACloudGuru-Resources/content-gitops](https://github.com/ACloudGuru-Resources/content-gitops) (2 months ago)
 - [v1.29 deprecated apis validation](https://github.com/kyverno/policies/pull/489) on [kyverno/policies](https://github.com/kyverno/policies) (8 months ago)
@@ -54,8 +54,8 @@
 
 #### ⭐ Recent Stars
 
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (6 days ago)
-- [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (10 months ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
+- [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (11 months ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (11 months ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (11 months ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (11 months ago)
