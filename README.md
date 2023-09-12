@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (3 days ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (4 weeks ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (3 months ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (8 months ago)
@@ -12,7 +13,6 @@
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (9 months ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (10 months ago)
 - [rose-w-mwangi/ace-technical-interview](https://github.com/rose-w-mwangi/ace-technical-interview) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (11 months ago)
-- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,6 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.14](https://github.com/meshery/meshsync/releases/tag/v0.6.14), 2 weeks ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
