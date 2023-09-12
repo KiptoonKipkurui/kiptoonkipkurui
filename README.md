@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.14](https://github.com/meshery/meshsync/releases/tag/v0.6.14), 2 weeks ago) - MeshSync one of a family of custom controllers within Meshery Operator.
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.15](https://github.com/meshery/meshsync/releases/tag/v0.6.15), today) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
