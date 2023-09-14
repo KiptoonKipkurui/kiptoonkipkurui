@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (4 days ago)
+- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (5 days ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (3 months ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (8 months ago)
@@ -29,13 +29,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.15](https://github.com/meshery/meshsync/releases/tag/v0.6.15), 1 day ago) - MeshSync one of a family of custom controllers within Meshery Operator.
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.15](https://github.com/meshery/meshsync/releases/tag/v0.6.15), 2 days ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
-- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 ](https://github.com/meshery/meshsync/pull/242) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 days ago)
-- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 dependabot fixes](https://github.com/meshery/meshsync/pull/241) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 days ago)
-- [[Docs] Readme: Contributor Instructions and Make Target](https://github.com/meshery/meshsync/pull/240) on [meshery/meshsync](https://github.com/meshery/meshsync) (5 days ago)
+- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 ](https://github.com/meshery/meshsync/pull/242) on [meshery/meshsync](https://github.com/meshery/meshsync) (4 days ago)
+- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 dependabot fixes](https://github.com/meshery/meshsync/pull/241) on [meshery/meshsync](https://github.com/meshery/meshsync) (4 days ago)
+- [[Docs] Readme: Contributor Instructions and Make Target](https://github.com/meshery/meshsync/pull/240) on [meshery/meshsync](https://github.com/meshery/meshsync) (6 days ago)
 - [Flux](https://github.com/KiptoonKipkurui/content-gitops/pull/1) on [KiptoonKipkurui/content-gitops](https://github.com/KiptoonKipkurui/content-gitops) (3 months ago)
 - [Flux](https://github.com/ACloudGuru-Resources/content-gitops/pull/32) on [ACloudGuru-Resources/content-gitops](https://github.com/ACloudGuru-Resources/content-gitops) (3 months ago)
 - [v1.29 deprecated apis validation](https://github.com/kyverno/policies/pull/489) on [kyverno/policies](https://github.com/kyverno/policies) (8 months ago)
