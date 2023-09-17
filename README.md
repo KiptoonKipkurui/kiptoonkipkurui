@@ -9,8 +9,8 @@
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (3 months ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (8 months ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (8 months ago)
-- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (9 months ago)
 - [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (9 months ago)
+- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (9 months ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (9 months ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (11 months ago)
 
