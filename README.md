@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Meshery End-to-End Tests with mesheryctl ](https://github.com/meshery/meshery/pull/8808) on [meshery/meshery](https://github.com/meshery/meshery) (today)
 - [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (2 days ago)
 - [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (3 days ago)
 - [[Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/244) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 days ago)
@@ -43,7 +44,6 @@
 - [Flux](https://github.com/KiptoonKipkurui/content-gitops/pull/1) on [KiptoonKipkurui/content-gitops](https://github.com/KiptoonKipkurui/content-gitops) (3 months ago)
 - [Flux](https://github.com/ACloudGuru-Resources/content-gitops/pull/32) on [ACloudGuru-Resources/content-gitops](https://github.com/ACloudGuru-Resources/content-gitops) (3 months ago)
 - [v1.29 deprecated apis validation](https://github.com/kyverno/policies/pull/489) on [kyverno/policies](https://github.com/kyverno/policies) (8 months ago)
-- [Support for TikTok](https://github.com/KanaryStack/aliascheck/pull/59) on [KanaryStack/aliascheck](https://github.com/KanaryStack/aliascheck) (10 months ago)
 
 
 #### 📓 Gists I wrote
