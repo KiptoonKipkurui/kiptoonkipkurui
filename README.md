@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 day ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 days ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (1 week ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (3 months ago)
@@ -12,7 +12,7 @@
 - [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (9 months ago)
 - [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (9 months ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (9 months ago)
-- [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (10 months ago)
+- [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,16 +29,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.140](https://github.com/meshery/meshery/releases/tag/v0.6.140), today) - Meshery, the cloud native manager
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.15](https://github.com/meshery/meshsync/releases/tag/v0.6.15), 4 days ago) - MeshSync one of a family of custom controllers within Meshery Operator.
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.140](https://github.com/meshery/meshery/releases/tag/v0.6.140), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.15](https://github.com/meshery/meshsync/releases/tag/v0.6.15), 5 days ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (1 day ago)
-- [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (2 days ago)
-- [[Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/244) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 days ago)
-- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 ](https://github.com/meshery/meshsync/pull/242) on [meshery/meshsync](https://github.com/meshery/meshsync) (6 days ago)
-- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 dependabot fixes](https://github.com/meshery/meshsync/pull/241) on [meshery/meshsync](https://github.com/meshery/meshsync) (6 days ago)
+- [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (2 days ago)
+- [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (3 days ago)
+- [[Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/244) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 days ago)
+- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 ](https://github.com/meshery/meshsync/pull/242) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 week ago)
+- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 dependabot fixes](https://github.com/meshery/meshsync/pull/241) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 week ago)
 - [[Docs] Readme: Contributor Instructions and Make Target](https://github.com/meshery/meshsync/pull/240) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 week ago)
 - [Flux](https://github.com/KiptoonKipkurui/content-gitops/pull/1) on [KiptoonKipkurui/content-gitops](https://github.com/KiptoonKipkurui/content-gitops) (3 months ago)
 - [Flux](https://github.com/ACloudGuru-Resources/content-gitops/pull/32) on [ACloudGuru-Resources/content-gitops](https://github.com/ACloudGuru-Resources/content-gitops) (3 months ago)
@@ -56,7 +56,7 @@
 
 #### ⭐ Recent Stars
 
-- [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (1 day ago)
+- [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (2 days ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 weeks ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (11 months ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (11 months ago)
