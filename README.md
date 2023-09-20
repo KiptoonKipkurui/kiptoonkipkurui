@@ -4,13 +4,13 @@
 #### 👷 Check out what I'm currently working on
 
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 days ago)
-- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (1 week ago)
+- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (6 days ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (3 months ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (8 months ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (8 months ago)
-- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (9 months ago)
 - [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (9 months ago)
+- [KiptoonKipkurui/ShareSmiles](https://github.com/KiptoonKipkurui/ShareSmiles) - Sharing what we dont use more often (9 months ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (10 months ago)
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) -  (11 months ago)
 
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.16](https://github.com/meshery/meshsync/releases/tag/v0.6.16), today) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.142](https://github.com/meshery/meshery/releases/tag/v0.6.142), 1 day ago) - Meshery, the cloud native manager
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.15](https://github.com/meshery/meshsync/releases/tag/v0.6.15), 1 week ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
@@ -72,11 +72,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [TrevorDeTutor](https://github.com/TrevorDeTutor)
 - [Shawnbett3r](https://github.com/Shawnbett3r)
 - [wilsonanyonga](https://github.com/wilsonanyonga)
 - [Willarry](https://github.com/Willarry)
 - [ballountopp1](https://github.com/ballountopp1)
-- [GraceMunyiri](https://github.com/GraceMunyiri)
 
 #### 💬 Feedback
 
