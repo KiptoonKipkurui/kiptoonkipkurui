@@ -72,11 +72,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [bpradiip](https://github.com/bpradiip)
 - [TrevorDeTutor](https://github.com/TrevorDeTutor)
 - [Shawnbett3r](https://github.com/Shawnbett3r)
 - [wilsonanyonga](https://github.com/wilsonanyonga)
 - [Willarry](https://github.com/Willarry)
+- [ballountopp1](https://github.com/ballountopp1)
 
 #### 💬 Feedback
 
