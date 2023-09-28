@@ -4,7 +4,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
-- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (1 week ago)
+- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (2 weeks ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (4 months ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (8 months ago)
@@ -29,15 +29,15 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.149](https://github.com/meshery/meshery/releases/tag/v0.6.149), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.149](https://github.com/meshery/meshery/releases/tag/v0.6.149), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.18](https://github.com/meshery/meshsync/releases/tag/v0.6.18), 1 week ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
 - [Meshery End-to-End Tests with mesheryctl ](https://github.com/meshery/meshery/pull/8808) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
 - [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
-- [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (1 week ago)
-- [[Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/244) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 week ago)
+- [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (2 weeks ago)
+- [[Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/244) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 weeks ago)
 - [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 ](https://github.com/meshery/meshsync/pull/242) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 weeks ago)
 - [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 dependabot fixes](https://github.com/meshery/meshsync/pull/241) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 weeks ago)
 - [[Docs] Readme: Contributor Instructions and Make Target](https://github.com/meshery/meshsync/pull/240) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 weeks ago)
