@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.19](https://github.com/meshery/meshsync/releases/tag/v0.6.19), today) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.153](https://github.com/meshery/meshery/releases/tag/v0.6.153), 1 day ago) - Meshery, the cloud native manager
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.18](https://github.com/meshery/meshsync/releases/tag/v0.6.18), 1 week ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
