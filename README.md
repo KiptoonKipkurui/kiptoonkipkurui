@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (2 days ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 days ago)
+- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (3 days ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 days ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (2 weeks ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (4 months ago)
@@ -29,13 +29,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.19](https://github.com/meshery/meshsync/releases/tag/v0.6.19), today) - MeshSync one of a family of custom controllers within Meshery Operator.
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.153](https://github.com/meshery/meshery/releases/tag/v0.6.153), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.19](https://github.com/meshery/meshsync/releases/tag/v0.6.19), 1 day ago) - MeshSync one of a family of custom controllers within Meshery Operator.
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.153](https://github.com/meshery/meshery/releases/tag/v0.6.153), 2 days ago) - Meshery, the cloud native manager
 
 #### 🔨 My recent Pull Requests
 
-- [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (2 days ago)
-- [Correct mesheryctl install link](https://github.com/layer5io/meshery-service-mesh-patterns-action/pull/9) on [layer5io/meshery-service-mesh-patterns-action](https://github.com/layer5io/meshery-service-mesh-patterns-action) (2 days ago)
+- [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (3 days ago)
+- [Correct mesheryctl install link](https://github.com/layer5io/meshery-service-mesh-patterns-action/pull/9) on [layer5io/meshery-service-mesh-patterns-action](https://github.com/layer5io/meshery-service-mesh-patterns-action) (3 days ago)
 - [Meshery End-to-End Tests with mesheryctl ](https://github.com/meshery/meshery/pull/8808) on [meshery/meshery](https://github.com/meshery/meshery) (2 weeks ago)
 - [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (2 weeks ago)
 - [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (2 weeks ago)
