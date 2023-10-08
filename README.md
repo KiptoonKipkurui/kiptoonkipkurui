@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 week ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
+- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 week ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (3 weeks ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (4 months ago)
