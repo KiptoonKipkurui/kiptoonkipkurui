@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (today)
 - [Meshsync config on Meshery Operator CRD](https://github.com/meshery/meshery-operator/pull/533) on [meshery/meshery-operator](https://github.com/meshery/meshery-operator) (today)
 - [ [Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/255) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 week ago)
 - [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
@@ -43,7 +44,6 @@
 - [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (3 weeks ago)
 - [[Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/244) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 weeks ago)
 - [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 ](https://github.com/meshery/meshsync/pull/242) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 month ago)
-- [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 dependabot fixes](https://github.com/meshery/meshsync/pull/241) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 month ago)
 
 
 #### 📓 Gists I wrote
