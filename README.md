@@ -7,7 +7,7 @@
 - [layer5io/meshery-service-mesh-patterns-action](https://github.com/layer5io/meshery-service-mesh-patterns-action) - GitHub Action to apply Service Mes Patterns in CI/CD pipelines (1 week ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 week ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (4 weeks ago)
-- [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 month ago)
+- [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (2 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (4 months ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (9 months ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (9 months ago)
@@ -29,18 +29,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.156](https://github.com/meshery/meshery/releases/tag/v0.6.156), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.156](https://github.com/meshery/meshery/releases/tag/v0.6.156), 3 days ago) - Meshery, the cloud native manager
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.19](https://github.com/meshery/meshsync/releases/tag/v0.6.19), 1 week ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
-- [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 day ago)
-- [Meshsync config on Meshery Operator CRD](https://github.com/meshery/meshery-operator/pull/533) on [meshery/meshery-operator](https://github.com/meshery/meshery-operator) (1 day ago)
+- [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 days ago)
+- [Meshsync config on Meshery Operator CRD](https://github.com/meshery/meshery-operator/pull/533) on [meshery/meshery-operator](https://github.com/meshery/meshery-operator) (2 days ago)
 - [ [Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/255) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 week ago)
 - [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
 - [Correct mesheryctl install link](https://github.com/layer5io/meshery-service-mesh-patterns-action/pull/9) on [layer5io/meshery-service-mesh-patterns-action](https://github.com/layer5io/meshery-service-mesh-patterns-action) (1 week ago)
 - [Meshery End-to-End Tests with mesheryctl ](https://github.com/meshery/meshery/pull/8808) on [meshery/meshery](https://github.com/meshery/meshery) (3 weeks ago)
-- [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (3 weeks ago)
+- [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (4 weeks ago)
 - [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (4 weeks ago)
 - [[Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/244) on [meshery/meshsync](https://github.com/meshery/meshsync) (4 weeks ago)
 - [ Bump k8s.io/kubectl from 0.26.0 to 0.28.1 #234 ](https://github.com/meshery/meshsync/pull/242) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 month ago)
@@ -57,7 +57,7 @@
 #### ⭐ Recent Stars
 
 - [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (1 week ago)
-- [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (3 weeks ago)
+- [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (4 weeks ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 month ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (1 year ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (1 year ago)
