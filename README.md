@@ -4,8 +4,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [layer5io/meshery-service-mesh-patterns-action](https://github.com/layer5io/meshery-service-mesh-patterns-action) - GitHub Action to apply Service Mes Patterns in CI/CD pipelines (3 weeks ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 weeks ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (3 weeks ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 weeks ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (1 month ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (2 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (4 months ago)
