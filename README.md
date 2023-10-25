@@ -3,16 +3,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (today)
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure (2 days ago)
-- [layer5io/meshery-service-mesh-patterns-action](https://github.com/layer5io/meshery-service-mesh-patterns-action) - GitHub Action to apply Service Mes Patterns in CI/CD pipelines (3 weeks ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (3 weeks ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (3 weeks ago)
+- [layer5io/meshery-service-mesh-patterns-action](https://github.com/layer5io/meshery-service-mesh-patterns-action) - GitHub Action to apply Service Mes Patterns in CI/CD pipelines (3 weeks ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (1 month ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (2 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (4 months ago)
 - [kyverno/policies](https://github.com/kyverno/policies) - Kyverno policies for security and best practices  (9 months ago)
 - [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) -  (10 months ago)
-- [KiptoonKipkurui/Design-Structures](https://github.com/KiptoonKipkurui/Design-Structures) -  (10 months ago)
 
 #### 🌱 My latest projects
 
@@ -85,7 +85,6 @@ Say Hello, I don't bite!
 #### 📫 How to reach me
 - LinkedIn: https://linkedin.com/in/daniel-kipkurui-kiptoon-56b8a1177
 - Twitter: https://twitter.com/danchi101
-- [![](https://ossrank.com/widget/649025)](https://ossrank.com/c/649025-daniel-kiptoon)
 
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
