@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) -  (5 days ago)
+- [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) -  (6 days ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (1 week ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (3 weeks ago)
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (3 weeks ago)
@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.176](https://github.com/meshery/meshery/releases/tag/v0.6.176), 1 day ago) - Meshery, the cloud native manager
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.22](https://github.com/meshery/meshsync/releases/tag/v0.6.22), 4 weeks ago) - MeshSync one of a family of custom controllers within Meshery Operator.
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.176](https://github.com/meshery/meshery/releases/tag/v0.6.176), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.22](https://github.com/meshery/meshsync/releases/tag/v0.6.22), 1 month ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
 
@@ -40,7 +40,7 @@
 - [ [Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/255) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 month ago)
 - [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (1 month ago)
 - [Correct mesheryctl install link](https://github.com/layer5io/meshery-service-mesh-patterns-action/pull/9) on [layer5io/meshery-service-mesh-patterns-action](https://github.com/layer5io/meshery-service-mesh-patterns-action) (1 month ago)
-- [Meshery End-to-End Tests with mesheryctl ](https://github.com/meshery/meshery/pull/8808) on [meshery/meshery](https://github.com/meshery/meshery) (1 month ago)
+- [Meshery End-to-End Tests with mesheryctl ](https://github.com/meshery/meshery/pull/8808) on [meshery/meshery](https://github.com/meshery/meshery) (2 months ago)
 - [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (2 months ago)
 - [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (2 months ago)
 - [[Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/244) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 months ago)
