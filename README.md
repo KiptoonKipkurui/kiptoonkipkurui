@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (today)
 - [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) -  (1 week ago)
-- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (1 week ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (3 weeks ago)
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (3 weeks ago)
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure (3 weeks ago)
