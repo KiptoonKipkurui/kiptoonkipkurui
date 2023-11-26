@@ -12,7 +12,7 @@
 - [layer5io/meshery-cloud-native-patterns-action](https://github.com/layer5io/meshery-cloud-native-patterns-action) - GitHub Action to apply Cloud Native Patterns in CI/CD pipelines (1 month ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 month ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (1 month ago)
-- [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (5 months ago)
+- [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,9 +29,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.181](https://github.com/meshery/meshery/releases/tag/v0.6.181), today) - Meshery, the cloud native manager
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.24](https://github.com/meshery/meshsync/releases/tag/v0.6.24), 1 day ago) - MeshSync one of a family of custom controllers within Meshery Operator.
-- [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.6.17](https://github.com/meshery/meshery-operator/releases/tag/v0.6.17), 5 days ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.6.181](https://github.com/meshery/meshery/releases/tag/v0.6.181), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.6.24](https://github.com/meshery/meshsync/releases/tag/v0.6.24), 2 days ago) - MeshSync one of a family of custom controllers within Meshery Operator.
+- [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.6.17](https://github.com/meshery/meshery-operator/releases/tag/v0.6.17), 6 days ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
 
