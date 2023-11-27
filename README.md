@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (today)
 - [#Docs Standardize Makefile](https://github.com/meshery/meshsync/pull/273) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 week ago)
 - [Community Profile Daniel Kiptoon](https://github.com/layer5io/layer5/pull/5078) on [layer5io/layer5](https://github.com/layer5io/layer5) (1 month ago)
 - [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 month ago)
@@ -44,7 +45,6 @@
 - [Correct mesheryctl install link](https://github.com/layer5io/meshery-cloud-native-patterns-action/pull/9) on [layer5io/meshery-cloud-native-patterns-action](https://github.com/layer5io/meshery-cloud-native-patterns-action) (1 month ago)
 - [Meshery End-to-End Tests with mesheryctl ](https://github.com/meshery/meshery/pull/8808) on [meshery/meshery](https://github.com/meshery/meshery) (2 months ago)
 - [Fix failing updater test](https://github.com/meshery/meshery/pull/8791) on [meshery/meshery](https://github.com/meshery/meshery) (2 months ago)
-- [[chore] update Go to 1.21, and update relevant pkgs](https://github.com/meshery/meshery-consul/pull/398) on [meshery/meshery-consul](https://github.com/meshery/meshery-consul) (2 months ago)
 
 
 #### 📓 Gists I wrote
