@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (today)
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters (1 week ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (1 week ago)
 - [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) -  (2 weeks ago)
@@ -10,7 +11,6 @@
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (1 month ago)
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure (1 month ago)
 - [layer5io/meshery-cloud-native-patterns-action](https://github.com/layer5io/meshery-cloud-native-patterns-action) - GitHub Action to apply Cloud Native Patterns in CI/CD pipelines (2 months ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 months ago)
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (2 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (6 months ago)
 
