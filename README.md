@@ -35,6 +35,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Enhancement: Using Discovery API to discover Kubernetes Resources](https://github.com/meshery/meshsync/pull/284) on [meshery/meshsync](https://github.com/meshery/meshsync) (today)
 - [Add missing Watch-List configuration on Meshery Helm Chart CRD](https://github.com/meshery/meshery/pull/9562) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
 - [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (2 weeks ago)
 - [#Docs Standardize Makefile](https://github.com/meshery/meshsync/pull/273) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 weeks ago)
@@ -44,7 +45,6 @@
 - [ [Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/255) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 months ago)
 - [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (2 months ago)
 - [Correct mesheryctl install link](https://github.com/layer5io/meshery-cloud-native-patterns-action/pull/9) on [layer5io/meshery-cloud-native-patterns-action](https://github.com/layer5io/meshery-cloud-native-patterns-action) (2 months ago)
-- [Meshery End-to-End Tests with mesheryctl ](https://github.com/meshery/meshery/pull/8808) on [meshery/meshery](https://github.com/meshery/meshery) (2 months ago)
 
 
 #### 📓 Gists I wrote
