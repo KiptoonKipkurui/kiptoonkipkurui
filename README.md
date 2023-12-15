@@ -5,7 +5,7 @@
 
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 week ago)
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters (3 weeks ago)
-- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (3 weeks ago)
+- [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (4 weeks ago)
 - [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) -  (1 month ago)
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 month ago)
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (1 month ago)
@@ -29,16 +29,16 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.0](https://github.com/meshery/meshsync/releases/tag/v0.7.0), 1 day ago) - MeshSync one of a family of custom controllers within Meshery Operator.
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.2-rc-1](https://github.com/meshery/meshery/releases/tag/v0.7.2-rc-1), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.0](https://github.com/meshery/meshsync/releases/tag/v0.7.0), 2 days ago) - MeshSync one of a family of custom controllers within Meshery Operator.
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.2-rc-1](https://github.com/meshery/meshery/releases/tag/v0.7.2-rc-1), 3 days ago) - Meshery, the cloud native manager
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.6.17](https://github.com/meshery/meshery-operator/releases/tag/v0.6.17), 3 weeks ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
 
-- [Enhancement: Using Discovery API to discover Kubernetes Resources](https://github.com/meshery/meshsync/pull/284) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 day ago)
+- [Enhancement: Using Discovery API to discover Kubernetes Resources](https://github.com/meshery/meshsync/pull/284) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 days ago)
 - [Add missing Watch-List configuration on Meshery Helm Chart CRD](https://github.com/meshery/meshery/pull/9562) on [meshery/meshery](https://github.com/meshery/meshery) (1 week ago)
 - [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (2 weeks ago)
-- [#Docs Standardize Makefile](https://github.com/meshery/meshsync/pull/273) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 weeks ago)
+- [#Docs Standardize Makefile](https://github.com/meshery/meshsync/pull/273) on [meshery/meshsync](https://github.com/meshery/meshsync) (4 weeks ago)
 - [Community Profile Daniel Kiptoon](https://github.com/layer5io/layer5/pull/5078) on [layer5io/layer5](https://github.com/layer5io/layer5) (1 month ago)
 - [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 months ago)
 - [Meshsync config on Meshery Operator CRD](https://github.com/meshery/meshery-operator/pull/533) on [meshery/meshery-operator](https://github.com/meshery/meshery-operator) (2 months ago)
