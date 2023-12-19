@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.2-rc-2](https://github.com/meshery/meshery/releases/tag/v0.7.2-rc-2), 4 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.2](https://github.com/meshery/meshery/releases/tag/v0.7.2), today) - Meshery, the cloud native manager
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.0](https://github.com/meshery/meshsync/releases/tag/v0.7.0), 6 days ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.6.17](https://github.com/meshery/meshery-operator/releases/tag/v0.6.17), 4 weeks ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
