@@ -11,8 +11,8 @@
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (2 months ago)
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (2 months ago)
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure (2 months ago)
-- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (3 months ago)
 - [layer5io/meshery-cloud-native-patterns-action](https://github.com/layer5io/meshery-cloud-native-patterns-action) - GitHub Action to apply Cloud Native Patterns in CI/CD pipelines (3 months ago)
+- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (3 months ago)
 
 #### 🌱 My latest projects
 
