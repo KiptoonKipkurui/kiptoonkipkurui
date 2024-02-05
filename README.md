@@ -19,13 +19,13 @@
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) - 
 - [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) - 
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) - 
-- [KiptoonKipkurui/Paper-Reviews](https://github.com/KiptoonKipkurui/Paper-Reviews) - A collection of reviews for scientific papers
-- [KiptoonKipkurui/unit-files-templates](https://github.com/KiptoonKipkurui/unit-files-templates) - 
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) - 
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) - 
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) - 
+- [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile
+- [KiptoonKipkurui/tickets-backend](https://github.com/KiptoonKipkurui/tickets-backend) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -57,6 +57,7 @@
 
 #### ⭐ Recent Stars
 
+- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (today)
 - [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (4 months ago)
 - [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (4 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (5 months ago)
@@ -65,7 +66,6 @@
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (1 year ago)
 - [rose-w-mwangi/ace-technical-interview](https://github.com/rose-w-mwangi/ace-technical-interview) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 year ago)
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (1 year ago)
-- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (1 year ago)
 - [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - Go Merkle Tree. High performance, Supporting parallel run, OpenZeppelin sorting pairs. (1 year ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
