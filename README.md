@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.23](https://github.com/meshery/meshery/releases/tag/v0.7.23), 2 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.23](https://github.com/meshery/meshery/releases/tag/v0.7.23), 3 days ago) - Meshery, the cloud native manager
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.4](https://github.com/meshery/meshsync/releases/tag/v0.7.4), 1 month ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.7.0](https://github.com/meshery/meshery-operator/releases/tag/v0.7.0), 1 month ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
@@ -38,7 +38,7 @@
 - [[CI] MeshSync E2E  test](https://github.com/meshery/meshsync/pull/286) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 months ago)
 - [Enhancement: Using Discovery API to discover Kubernetes Resources](https://github.com/meshery/meshsync/pull/284) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 months ago)
 - [Add missing Watch-List configuration on Meshery Helm Chart CRD](https://github.com/meshery/meshery/pull/9562) on [meshery/meshery](https://github.com/meshery/meshery) (2 months ago)
-- [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (2 months ago)
+- [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (3 months ago)
 - [#Docs Standardize Makefile](https://github.com/meshery/meshsync/pull/273) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 months ago)
 - [Community Profile Daniel Kiptoon](https://github.com/layer5io/layer5/pull/5078) on [layer5io/layer5](https://github.com/layer5io/layer5) (4 months ago)
 - [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (4 months ago)
