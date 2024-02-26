@@ -64,7 +64,7 @@
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (1 year ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (1 year ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (1 year ago)
-- [rose-w-mwangi/ace-technical-interview](https://github.com/rose-w-mwangi/ace-technical-interview) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 year ago)
+- [rosemwangie/ace-technical-interview](https://github.com/rosemwangie/ace-technical-interview) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (1 year ago)
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (1 year ago)
 - [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - Go Merkle Tree. High performance, Supporting parallel run, OpenZeppelin sorting pairs. (1 year ago)
 
