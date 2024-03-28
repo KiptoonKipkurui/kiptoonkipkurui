@@ -11,8 +11,8 @@
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (5 months ago)
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (5 months ago)
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure (5 months ago)
-- [layer5io/meshery-cloud-native-patterns-action](https://github.com/layer5io/meshery-cloud-native-patterns-action) - GitHub Action to apply Cloud Native Patterns in CI/CD pipelines (5 months ago)
-- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (5 months ago)
+- [layer5io/meshery-cloud-native-patterns-action](https://github.com/layer5io/meshery-cloud-native-patterns-action) - GitHub Action to apply Cloud Native Patterns in CI/CD pipelines (6 months ago)
+- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) -  (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.39](https://github.com/meshery/meshery/releases/tag/v0.7.39), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.39](https://github.com/meshery/meshery/releases/tag/v0.7.39), 2 days ago) - Meshery, the cloud native manager
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.5](https://github.com/meshery/meshsync/releases/tag/v0.7.5), 3 weeks ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.7.0](https://github.com/meshery/meshery-operator/releases/tag/v0.7.0), 2 months ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
@@ -44,7 +44,7 @@
 - [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (5 months ago)
 - [Meshsync config on Meshery Operator CRD](https://github.com/meshery/meshery-operator/pull/533) on [meshery/meshery-operator](https://github.com/meshery/meshery-operator) (5 months ago)
 - [ [Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/255) on [meshery/meshsync](https://github.com/meshery/meshsync) (5 months ago)
-- [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (5 months ago)
+- [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (6 months ago)
 
 
 #### 📓 Gists I wrote
@@ -61,7 +61,7 @@
 - [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (5 months ago)
 - [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (6 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (6 months ago)
-- [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (1 year ago)
+- [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (2 years ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (2 years ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (2 years ago)
 - [rosemwangie/ace-technical-interview](https://github.com/rosemwangie/ace-technical-interview) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in JavaScript and Python. Also selected Leetcode coding question solutions are available.  (2 years ago)
