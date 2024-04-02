@@ -74,7 +74,7 @@
 #### 👯 Check out some of my recent followers
 
 - [samuelsenerwa](https://github.com/samuelsenerwa)
-- [TrevorNyan](https://github.com/TrevorNyan)
+- [TrevorRashid](https://github.com/TrevorRashid)
 - [Shawnbett3r](https://github.com/Shawnbett3r)
 - [wilsonanyonga](https://github.com/wilsonanyonga)
 - [Willarry](https://github.com/Willarry)
