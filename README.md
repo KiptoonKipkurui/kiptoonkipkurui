@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (4 weeks ago)
+- [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (1 month ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (5 months ago)
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters (6 months ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (6 months ago)
@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.59](https://github.com/meshery/meshery/releases/tag/v0.7.59), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.59](https://github.com/meshery/meshery/releases/tag/v0.7.59), 2 days ago) - Meshery, the cloud native manager
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.5](https://github.com/meshery/meshsync/releases/tag/v0.7.5), 2 months ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.7.0](https://github.com/meshery/meshery-operator/releases/tag/v0.7.0), 4 months ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
