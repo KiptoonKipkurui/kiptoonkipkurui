@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.67](https://github.com/meshery/meshery/releases/tag/v0.7.67), today) - Meshery, the cloud native manager
-- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.5](https://github.com/meshery/meshsync/releases/tag/v0.7.5), 2 months ago) - MeshSync one of a family of custom controllers within Meshery Operator.
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.67](https://github.com/meshery/meshery/releases/tag/v0.7.67), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.5](https://github.com/meshery/meshsync/releases/tag/v0.7.5), 3 months ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.7.0](https://github.com/meshery/meshery-operator/releases/tag/v0.7.0), 4 months ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
@@ -58,7 +58,7 @@
 #### ⭐ Recent Stars
 
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (3 months ago)
-- [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (7 months ago)
+- [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (8 months ago)
 - [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (8 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (9 months ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (2 years ago)
