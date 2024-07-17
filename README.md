@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Eros-Rama](https://github.com/Eros-Rama)
 - [instrik](https://github.com/instrik)
 - [samuelsenerwa](https://github.com/samuelsenerwa)
 - [TrevorRashid](https://github.com/TrevorRashid)
 - [Shawnbett3r](https://github.com/Shawnbett3r)
-- [wilsonanyonga](https://github.com/wilsonanyonga)
 
 #### 💬 Feedback
 
