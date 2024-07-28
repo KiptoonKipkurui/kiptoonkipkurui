@@ -29,7 +29,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.84](https://github.com/meshery/meshery/releases/tag/v0.7.84), 5 days ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.84](https://github.com/meshery/meshery/releases/tag/v0.7.84), 6 days ago) - Meshery, the cloud native manager
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.5](https://github.com/meshery/meshsync/releases/tag/v0.7.5), 4 months ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.7.0](https://github.com/meshery/meshery-operator/releases/tag/v0.7.0), 6 months ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
@@ -60,7 +60,7 @@
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (5 months ago)
 - [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (9 months ago)
 - [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (10 months ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (10 months ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (11 months ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (2 years ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (2 years ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (2 years ago)
