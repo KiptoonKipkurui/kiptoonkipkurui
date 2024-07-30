@@ -75,7 +75,7 @@
 
 - [instrik](https://github.com/instrik)
 - [samuelsenerwa](https://github.com/samuelsenerwa)
-- [TrevorRashid](https://github.com/TrevorRashid)
+- [aatalrashid](https://github.com/aatalrashid)
 - [Shawnbett3r](https://github.com/Shawnbett3r)
 - [wilsonanyonga](https://github.com/wilsonanyonga)
 
