@@ -29,8 +29,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.87](https://github.com/meshery/meshery/releases/tag/v0.7.87), today) - Meshery, the cloud native manager
-- [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.7.2](https://github.com/meshery/meshery-operator/releases/tag/v0.7.2), 4 days ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.87](https://github.com/meshery/meshery/releases/tag/v0.7.87), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.7.2](https://github.com/meshery/meshery-operator/releases/tag/v0.7.2), 5 days ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.5](https://github.com/meshery/meshsync/releases/tag/v0.7.5), 5 months ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 
 #### 🔨 My recent Pull Requests
@@ -57,7 +57,7 @@
 
 #### ⭐ Recent Stars
 
-- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (5 months ago)
+- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (6 months ago)
 - [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (10 months ago)
 - [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (10 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (11 months ago)
