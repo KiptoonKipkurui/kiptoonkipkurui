@@ -73,11 +73,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Conny2](https://github.com/Conny2)
 - [instrik](https://github.com/instrik)
 - [samuelsenerwa](https://github.com/samuelsenerwa)
 - [aatalrashid](https://github.com/aatalrashid)
 - [Shawnbett3r](https://github.com/Shawnbett3r)
-- [wilsonanyonga](https://github.com/wilsonanyonga)
 
 #### 💬 Feedback
 
