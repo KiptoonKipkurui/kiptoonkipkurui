@@ -8,8 +8,8 @@
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters (11 months ago)
 - [meshery/meshsync](https://github.com/meshery/meshsync) - MeshSync one of a family of custom controllers within Meshery Operator. (11 months ago)
 - [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) -  (11 months ago)
-- [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (11 months ago)
-- [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (11 months ago)
+- [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) -  (1 year ago)
+- [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile (1 year ago)
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure (1 year ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.124](https://github.com/meshery/meshery/releases/tag/v0.7.124), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.124](https://github.com/meshery/meshery/releases/tag/v0.7.124), 1 day ago) - Meshery, the cloud native manager
 - [meshery/meshsync](https://github.com/meshery/meshsync) ([v0.7.6](https://github.com/meshery/meshsync/releases/tag/v0.7.6), 2 months ago) - MeshSync one of a family of custom controllers within Meshery Operator.
 - [meshery/meshery-operator](https://github.com/meshery/meshery-operator) ([v0.7.2](https://github.com/meshery/meshery-operator/releases/tag/v0.7.2), 2 months ago) - Meshery Operator is a Kubernetes Operator that deploys and manages the lifecycle of two Meshery components critical to Meshery&#39;s operations of Kubernetes clusters
 
