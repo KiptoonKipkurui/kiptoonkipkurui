@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.158](https://github.com/meshery/meshery/releases/tag/v0.7.158), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.159](https://github.com/meshery/meshery/releases/tag/v0.7.159), today) - Meshery, the cloud native manager
 
 #### 🔨 My recent Pull Requests
 
