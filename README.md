@@ -5,7 +5,7 @@
 
 - [KiptoonKipkurui/Intro2CP-SOFT140161](https://github.com/KiptoonKipkurui/Intro2CP-SOFT140161) -  (2 weeks ago)
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (7 months ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (11 months ago)
+- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -22,13 +22,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.162](https://github.com/meshery/meshery/releases/tag/v0.7.162), 1 day ago) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.162](https://github.com/meshery/meshery/releases/tag/v0.7.162), 2 days ago) - Meshery, the cloud native manager
 
 #### 🔨 My recent Pull Requests
 
 - [[CI] MeshSync E2E  test](https://github.com/meshery/meshsync/pull/286) on [meshery/meshsync](https://github.com/meshery/meshsync) (11 months ago)
 - [Enhancement: Using Discovery API to discover Kubernetes Resources](https://github.com/meshery/meshsync/pull/284) on [meshery/meshsync](https://github.com/meshery/meshsync) (11 months ago)
-- [Add missing Watch-List configuration on Meshery Helm Chart CRD](https://github.com/meshery/meshery/pull/9562) on [meshery/meshery](https://github.com/meshery/meshery) (11 months ago)
+- [Add missing Watch-List configuration on Meshery Helm Chart CRD](https://github.com/meshery/meshery/pull/9562) on [meshery/meshery](https://github.com/meshery/meshery) (1 year ago)
 - [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (1 year ago)
 - [#Docs Standardize Makefile](https://github.com/meshery/meshsync/pull/273) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 year ago)
 - [Community Profile Daniel Kiptoon](https://github.com/layer5io/layer5/pull/5078) on [layer5io/layer5](https://github.com/layer5io/layer5) (1 year ago)
