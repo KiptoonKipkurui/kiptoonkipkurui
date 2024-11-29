@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/Intro2CP-SOFT140161](https://github.com/KiptoonKipkurui/Intro2CP-SOFT140161) -  (2 weeks ago)
+- [KiptoonKipkurui/Intro2CP-SOFT140161](https://github.com/KiptoonKipkurui/Intro2CP-SOFT140161) -  (3 weeks ago)
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (7 months ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 year ago)
 
@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.164](https://github.com/meshery/meshery/releases/tag/v0.7.164), today) - Meshery, the cloud native manager
+- [meshery/meshery](https://github.com/meshery/meshery) ([v0.7.164](https://github.com/meshery/meshery/releases/tag/v0.7.164), 1 day ago) - Meshery, the cloud native manager
 
 #### 🔨 My recent Pull Requests
 
