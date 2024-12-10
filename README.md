@@ -4,7 +4,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (7 months ago)
-- [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (1 year ago)
 
 #### 🌱 My latest projects
 
