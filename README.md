@@ -61,11 +61,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [jahidnation](https://github.com/jahidnation)
 - [idimetrix](https://github.com/idimetrix)
 - [Conny2](https://github.com/Conny2)
 - [instrik](https://github.com/instrik)
 - [samuelsenerwa](https://github.com/samuelsenerwa)
+- [aatalrashid](https://github.com/aatalrashid)
 
 #### 💬 Feedback
 
