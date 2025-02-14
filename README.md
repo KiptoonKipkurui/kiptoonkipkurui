@@ -65,7 +65,7 @@
 - [Conny2](https://github.com/Conny2)
 - [instrik](https://github.com/instrik)
 - [samuelsenerwa](https://github.com/samuelsenerwa)
-- [eng-atwijukire](https://github.com/eng-atwijukire)
+- [aatalrashid](https://github.com/aatalrashid)
 
 #### 💬 Feedback
 
