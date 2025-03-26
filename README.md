@@ -37,7 +37,7 @@
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/75f8e6859120ff76384203162ff71031) (4 years ago)
+- [](https://gist.github.com/75f8e6859120ff76384203162ff71031) (5 years ago)
 - [](https://gist.github.com/36d123dbcfae3aa16c9fa05d14b77e70) (5 years ago)
 - [](https://gist.github.com/03aa6a9e4d1f6e83ffe6ce69bac8ade0) (5 years ago)
 - [http client helper methods](https://gist.github.com/42b4af13921bcb86f7f2aa61d76dc5f3) (5 years ago)
@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (1 year ago)
-- [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (1 year ago)
+- [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (2 years ago)
 - [KiptoonKipkurui/Keroche](https://github.com/KiptoonKipkurui/Keroche) - Keroche sales tracking (2 years ago)
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 years ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (2 years ago)
