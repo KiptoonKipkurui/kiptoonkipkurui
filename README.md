@@ -22,7 +22,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[CI] MeshSync E2E  test](https://github.com/meshery/meshsync/pull/286) on [meshery/meshsync](https://github.com/meshery/meshsync) (1 year ago)
+- [[CI] MeshSync E2E  test](https://github.com/meshery/meshsync/pull/286) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 years ago)
 - [Enhancement: Using Discovery API to discover Kubernetes Resources](https://github.com/meshery/meshsync/pull/284) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 years ago)
 - [Add missing Watch-List configuration on Meshery Helm Chart CRD](https://github.com/meshery/meshery/pull/9562) on [meshery/meshery](https://github.com/meshery/meshery) (2 years ago)
 - [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (2 years ago)
