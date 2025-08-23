@@ -53,7 +53,7 @@
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (2 years ago)
 - [wambuimwangie/Algo-world](https://github.com/wambuimwangie/Algo-world) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in Java, JavaScript, and Python. Also selected Leetcode coding question solutions are available.  (2 years ago)
 - [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (2 years ago)
-- [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - Go Merkle Tree. High performance, Supporting parallel run, OpenZeppelin sorting pairs. (2 years ago)
+- [txaty/go-merkletree](https://github.com/txaty/go-merkletree) - Go Merkle Tree. High performance, Supporting parallel run, OpenZeppelin sorting pairs. (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
