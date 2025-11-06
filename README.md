@@ -3,9 +3,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) -  (today)
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) - 
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) - 
 - [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) - 
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) - 
@@ -15,7 +17,6 @@
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) - 
 - [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile
-- [KiptoonKipkurui/tickets-backend](https://github.com/KiptoonKipkurui/tickets-backend) - 
 
 #### 🔭 Latest releases I've contributed to
 
