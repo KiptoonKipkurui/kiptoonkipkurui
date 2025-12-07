@@ -7,6 +7,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) - 
 - [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) - 
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) - 
 - [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) - 
@@ -16,7 +17,6 @@
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) - 
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder
 - [KiptoonKipkurui/urlhealth](https://github.com/KiptoonKipkurui/urlhealth) - 
-- [KiptoonKipkurui/kiptoonkipkurui](https://github.com/KiptoonKipkurui/kiptoonkipkurui) - Profile
 
 #### 🔭 Latest releases I've contributed to
 
