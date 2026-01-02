@@ -63,11 +63,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
 - [seckinyasar](https://github.com/seckinyasar)
 - [idimetrix](https://github.com/idimetrix)
 - [Conny2](https://github.com/Conny2)
 - [instrik](https://github.com/instrik)
-- [samuelsenerwa](https://github.com/samuelsenerwa)
 
 #### 💬 Feedback
 
