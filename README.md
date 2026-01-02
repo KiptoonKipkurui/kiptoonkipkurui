@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (today)
+- [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (1 day ago)
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) -  (3 weeks ago)
 - [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) -  (1 month ago)
 
@@ -63,11 +63,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [idimetrix](https://github.com/idimetrix)
 - [Conny2](https://github.com/Conny2)
 - [instrik](https://github.com/instrik)
 - [samuelsenerwa](https://github.com/samuelsenerwa)
-- [eng-atwijukire](https://github.com/eng-atwijukire)
 
 #### 💬 Feedback
 
