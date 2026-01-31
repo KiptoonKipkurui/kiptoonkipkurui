@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (2 weeks ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (2 weeks ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (2 years ago)
@@ -57,7 +58,6 @@
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (3 years ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (3 years ago)
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (3 years ago)
-- [wambuimwangie/Algo-world](https://github.com/wambuimwangie/Algo-world) - This repo helps you to understand the fundamentals of Data Structures and Algorithms. Implementations are done in Java, JavaScript, and Python. Also selected Leetcode coding question solutions are available.  (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
