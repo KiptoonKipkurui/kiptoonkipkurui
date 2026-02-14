@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw (today)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (4 weeks ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (4 weeks ago)
@@ -57,7 +58,6 @@
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager (2 years ago)
 - [NishkarshRaj/100DaysofMLCode](https://github.com/NishkarshRaj/100DaysofMLCode) - My journey to learn and grow in the domain of Machine Learning and Artificial Intelligence by performing the #100DaysofMLCode Challenge. Now supported by bright developers adding their learnings :&#43;1: (3 years ago)
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store. (3 years ago)
-- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search) - Collections of vector search related libraries, service and research papers (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
