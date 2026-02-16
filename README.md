@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw (1 day ago)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - picoclaw (2 days ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (1 month ago)
