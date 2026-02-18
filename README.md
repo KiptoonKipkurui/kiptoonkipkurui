@@ -64,11 +64,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [bryanadenhq](https://github.com/bryanadenhq)
 - [adelburieva](https://github.com/adelburieva)
 - [mtemel123](https://github.com/mtemel123)
 - [idimetrix](https://github.com/idimetrix)
 - [Conny2](https://github.com/Conny2)
-- [instrik](https://github.com/instrik)
 
 #### 💬 Feedback
 
