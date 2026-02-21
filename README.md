@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (today)
+- [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (1 day ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (1 month ago)
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) -  (2 months ago)
 - [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) -  (3 months ago)
@@ -48,8 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (6 days ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 week ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 weeks ago)
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (1 month ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (2 years ago)
