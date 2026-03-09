@@ -48,10 +48,10 @@
 
 #### ⭐ Recent Stars
 
-- [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks (2 days ago)
-- [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions (2 days ago)
-- [redis/agent-memory-server](https://github.com/redis/agent-memory-server) - Fast and flexible memory for agents and AI applications using Redis (3 days ago)
-- [redis-applied-ai/redis-slack-worker-agent](https://github.com/redis-applied-ai/redis-slack-worker-agent) -  (3 days ago)
+- [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks (3 days ago)
+- [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions (3 days ago)
+- [redis/agent-memory-server](https://github.com/redis/agent-memory-server) - Fast and flexible memory for agents and AI applications using Redis (4 days ago)
+- [redis-applied-ai/redis-slack-worker-agent](https://github.com/redis-applied-ai/redis-slack-worker-agent) -  (4 days ago)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (3 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 month ago)
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (1 month ago)
