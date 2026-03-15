@@ -10,6 +10,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/tictactoe](https://github.com/KiptoonKipkurui/tictactoe) - 
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) - 
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) - 
 - [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) - 
@@ -19,7 +20,6 @@
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) - 
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design
 - [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) - 
-- [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder
 
 #### 🔭 Latest releases I've contributed to
 
