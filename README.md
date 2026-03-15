@@ -10,7 +10,7 @@
 
 #### 🌱 My latest projects
 
-- [KiptoonKipkurui/tictactoe](https://github.com/KiptoonKipkurui/tictactoe) - 
+- [KiptoonKipkurui/go-tic-tac-toe](https://github.com/KiptoonKipkurui/go-tic-tac-toe) - 
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) - 
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) - 
 - [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) - 
