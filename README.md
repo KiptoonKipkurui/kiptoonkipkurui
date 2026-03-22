@@ -3,8 +3,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (2 days ago)
-- [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (4 weeks ago)
+- [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (3 days ago)
+- [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (1 month ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (2 months ago)
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) -  (3 months ago)
 - [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) -  (4 months ago)
