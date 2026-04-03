@@ -49,8 +49,8 @@
 
 #### ⭐ Recent Stars
 
-- [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks (3 weeks ago)
-- [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions (3 weeks ago)
+- [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks (4 weeks ago)
+- [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions (4 weeks ago)
 - [redis/agent-memory-server](https://github.com/redis/agent-memory-server) - Fast and flexible memory for agents and AI applications using Redis (4 weeks ago)
 - [redis-applied-ai/redis-slack-worker-agent](https://github.com/redis-applied-ai/redis-slack-worker-agent) -  (4 weeks ago)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 month ago)
