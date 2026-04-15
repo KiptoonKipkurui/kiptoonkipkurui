@@ -3,6 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [KiptoonKipkurui/blog](https://github.com/KiptoonKipkurui/blog) -  (today)
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (4 days ago)
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (3 weeks ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (3 months ago)
@@ -11,6 +12,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/blog](https://github.com/KiptoonKipkurui/blog) - 
 - [KiptoonKipkurui/go-tic-tac-toe](https://github.com/KiptoonKipkurui/go-tic-tac-toe) - 
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) - 
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) - 
@@ -20,7 +22,6 @@
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) - 
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) - 
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design
-- [KiptoonKipkurui/github-actions-tutorial](https://github.com/KiptoonKipkurui/github-actions-tutorial) - 
 
 #### 🔭 Latest releases I've contributed to
 
