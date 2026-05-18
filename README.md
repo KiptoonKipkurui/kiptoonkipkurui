@@ -5,7 +5,7 @@
 
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (2 weeks ago)
 - [KiptoonKipkurui/blog](https://github.com/KiptoonKipkurui/blog) -  (1 month ago)
-- [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (1 month ago)
+- [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (2 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (4 months ago)
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) -  (5 months ago)
 - [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) -  (6 months ago)
