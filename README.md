@@ -12,6 +12,7 @@
 
 #### 🌱 My latest projects
 
+- [KiptoonKipkurui/onyx-wind-mlops](https://github.com/KiptoonKipkurui/onyx-wind-mlops) - 
 - [KiptoonKipkurui/blog](https://github.com/KiptoonKipkurui/blog) - 
 - [KiptoonKipkurui/go-tic-tac-toe](https://github.com/KiptoonKipkurui/go-tic-tac-toe) - 
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) - 
@@ -21,7 +22,6 @@
 - [KiptoonKipkurui/streaming-lists](https://github.com/KiptoonKipkurui/streaming-lists) - 
 - [KiptoonKipkurui/config-operator](https://github.com/KiptoonKipkurui/config-operator) - 
 - [KiptoonKipkurui/helm](https://github.com/KiptoonKipkurui/helm) - 
-- [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design
 
 #### 🔭 Latest releases I've contributed to
 
