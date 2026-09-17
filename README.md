@@ -59,7 +59,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  (7 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (8 months ago)
 - [KiptoonKipkurui/100DaysOfSystemDesign](https://github.com/KiptoonKipkurui/100DaysOfSystemDesign) - This is a joint project with https://github.com/RWambui to learn system design (2 years ago)
-- [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (2 years ago)
+- [sarumaj/gh-gr](https://github.com/sarumaj/gh-gr) - github-cli extension allowing to manage multiple github repositories at once (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
