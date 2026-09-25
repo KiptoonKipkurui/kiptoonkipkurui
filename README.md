@@ -3,7 +3,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (4 months ago)
+- [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (5 months ago)
 - [KiptoonKipkurui/blog](https://github.com/KiptoonKipkurui/blog) -  (5 months ago)
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (6 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (8 months ago)
@@ -34,8 +34,8 @@
 - [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (2 years ago)
 - [#Docs Standardize Makefile](https://github.com/meshery/meshsync/pull/273) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 years ago)
 - [Community Profile Daniel Kiptoon](https://github.com/layer5io/layer5/pull/5078) on [layer5io/layer5](https://github.com/layer5io/layer5) (2 years ago)
-- [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 years ago)
-- [Meshsync config on Meshery Operator CRD](https://github.com/meshery/meshery-operator/pull/533) on [meshery/meshery-operator](https://github.com/meshery/meshery-operator) (2 years ago)
+- [Meshync Dynamic Configuration from Meshsync](https://github.com/meshery/meshsync/pull/258) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 years ago)
+- [Meshsync config on Meshery Operator CRD](https://github.com/meshery/meshery-operator/pull/533) on [meshery/meshery-operator](https://github.com/meshery/meshery-operator) (3 years ago)
 - [ [Enhancement] Use Streaming Lists when available](https://github.com/meshery/meshsync/pull/255) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 years ago)
 - [Fix Failing End to End Meshctl test](https://github.com/meshery/meshery/pull/8973) on [meshery/meshery](https://github.com/meshery/meshery) (3 years ago)
 
