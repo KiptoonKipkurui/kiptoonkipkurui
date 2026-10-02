@@ -8,7 +8,7 @@
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (6 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (8 months ago)
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) -  (9 months ago)
-- [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) -  (10 months ago)
+- [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) -  (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -51,8 +51,8 @@
 #### ⭐ Recent Stars
 
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (4 months ago)
-- [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks (6 months ago)
-- [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions (6 months ago)
+- [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks (7 months ago)
+- [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions (7 months ago)
 - [redis/agent-memory-server](https://github.com/redis/agent-memory-server) - Fast and flexible memory for agents and AI applications using Redis (7 months ago)
 - [redis-applied-ai/redis-slack-worker-agent](https://github.com/redis-applied-ai/redis-slack-worker-agent) -  (7 months ago)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (7 months ago)
