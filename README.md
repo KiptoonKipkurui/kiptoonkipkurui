@@ -66,11 +66,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [Ali-hey-0](https://github.com/Ali-hey-0)
 - [sirishadondapati4959-create](https://github.com/sirishadondapati4959-create)
 - [bryanadenhq](https://github.com/bryanadenhq)
 - [adelburieva](https://github.com/adelburieva)
 - [mtemel123](https://github.com/mtemel123)
+- [idimetrix](https://github.com/idimetrix)
 
 #### 💬 Feedback
 
