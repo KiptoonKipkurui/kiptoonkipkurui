@@ -8,7 +8,6 @@
 - [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (7 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (10 months ago)
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) -  (11 months ago)
-- [KiptoonKipkurui/edgealert](https://github.com/KiptoonKipkurui/edgealert) -  (1 year ago)
 
 #### 🌱 My latest projects
 
