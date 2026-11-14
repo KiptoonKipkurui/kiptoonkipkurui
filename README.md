@@ -5,7 +5,7 @@
 
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (6 months ago)
 - [KiptoonKipkurui/blog](https://github.com/KiptoonKipkurui/blog) -  (7 months ago)
-- [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (7 months ago)
+- [KiptoonKipkurui/open-research-assistant](https://github.com/KiptoonKipkurui/open-research-assistant) -  (8 months ago)
 - [KiptoonKipkurui/LuceneQueryBuilder](https://github.com/KiptoonKipkurui/LuceneQueryBuilder) - Lucene query builder (10 months ago)
 - [KiptoonKipkurui/multi-arch-test-harness](https://github.com/KiptoonKipkurui/multi-arch-test-harness) -  (11 months ago)
 
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [ChiefGyk3D/Clouds-Against-Humanity](https://github.com/ChiefGyk3D/Clouds-Against-Humanity) - Learn cloud security by building it! An open-source homelab teaching Zero Trust, DevSecOps, IaC, and cloud architecture from the ground up. (2 days ago)
+- [ChiefGyk3D/Clouds-Against-Humanity](https://github.com/ChiefGyk3D/Clouds-Against-Humanity) - Learn cloud security by building it! An open-source homelab teaching Zero Trust, DevSecOps, IaC, and cloud architecture from the ground up. (3 days ago)
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (6 months ago)
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks (8 months ago)
 - [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions (8 months ago)
