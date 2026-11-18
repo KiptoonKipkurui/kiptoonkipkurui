@@ -29,7 +29,7 @@
 
 - [[CI] MeshSync E2E  test](https://github.com/meshery/meshsync/pull/286) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 years ago)
 - [Enhancement: Using Discovery API to discover Kubernetes Resources](https://github.com/meshery/meshsync/pull/284) on [meshery/meshsync](https://github.com/meshery/meshsync) (2 years ago)
-- [Add missing Watch-List configuration on Meshery Helm Chart CRD](https://github.com/meshery/meshery/pull/9562) on [meshery/meshery](https://github.com/meshery/meshery) (2 years ago)
+- [Add missing Watch-List configuration on Meshery Helm Chart CRD](https://github.com/meshery/meshery/pull/9562) on [meshery/meshery](https://github.com/meshery/meshery) (3 years ago)
 - [Docs Meshsync CRD](https://github.com/meshery/meshery/pull/9463) on [meshery/meshery](https://github.com/meshery/meshery) (3 years ago)
 - [#Docs Standardize Makefile](https://github.com/meshery/meshsync/pull/273) on [meshery/meshsync](https://github.com/meshery/meshsync) (3 years ago)
 - [Community Profile Daniel Kiptoon](https://github.com/layer5io/layer5/pull/5078) on [layer5io/layer5](https://github.com/layer5io/layer5) (3 years ago)
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [ChiefGyk3D/Clouds-Against-Humanity](https://github.com/ChiefGyk3D/Clouds-Against-Humanity) - Learn cloud security by building it! An open-source homelab teaching Zero Trust, DevSecOps, IaC, and cloud architecture from the ground up. (6 days ago)
+- [ChiefGyk3D/Clouds-Against-Humanity](https://github.com/ChiefGyk3D/Clouds-Against-Humanity) - Learn cloud security by building it! An open-source homelab teaching Zero Trust, DevSecOps, IaC, and cloud architecture from the ground up. (1 week ago)
 - [KiptoonKipkurui/provavalidator](https://github.com/KiptoonKipkurui/provavalidator) -  (6 months ago)
 - [protectai/modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks (8 months ago)
 - [mmaitre314/picklescan](https://github.com/mmaitre314/picklescan) - Security scanner detecting Python Pickle files performing suspicious actions (8 months ago)
